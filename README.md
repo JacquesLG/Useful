@@ -10,3 +10,5 @@ Collection of tools/utilites that I use when programming.
 - **HTML/CSS**
   - [Bootstrap](http://getbootstrap.com) (Free)
   - [Load Awsome] (http://github.danielcardoso.net/load-awesome/) (Free)
+- **Other lists**
+  - [Awsome PHP] (https://github.com/ziadoz/awesome-php)
