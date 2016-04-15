@@ -9,4 +9,4 @@ Collection of tools/utilites that I use when programming.
   - [Medoo](http://medoo.in) (Free)
 - **HTML/CSS**
   - [Bootstrap](http://getbootstrap.com) (Free)
-  - [Load Awsome] (http://github.danielcardoso.net/load-awesome/) *Free*
+  - [Load Awsome] (http://github.danielcardoso.net/load-awesome/) (Free)
