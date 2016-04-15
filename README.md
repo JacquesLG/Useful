@@ -5,7 +5,7 @@ Collection of tools/utilites that I use when programming.
   - [FontAwsome](http://fontawesome.io) (Free)
   - [Themify](https://themify.me/themify-icons) (Free)
   - [SVG Loaders](http://samherbert.net/svg-loaders) (Free)
-  - [SpinKit](http://tobiasahlin.com/spinkit/)
+  - [SpinKit](http://tobiasahlin.com/spinkit/) (Free)
   - [Nucleo](https://nucleoapp.com) (Paid)
 - **PHP**
   - [Medoo](http://medoo.in) (Free)
