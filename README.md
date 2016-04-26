@@ -55,3 +55,4 @@ Collection of tools/utilites that I use when programming.
   - https://github.com/IonDen/ion.rangeSlider
   - http://refreshless.com/nouislider/
   - http://anthonyterrien.com/knob/
+  - http://tridiv.com
