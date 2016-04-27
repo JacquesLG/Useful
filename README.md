@@ -2,30 +2,31 @@
 Collection of tools/utilites that I use when programming.
 
 - **Icons**
-  - [FontAwsome](http://fontawesome.io) (Free)
-  - [Themify](https://themify.me/themify-icons) (Free)
-  - [SVG Loaders](http://samherbert.net/svg-loaders) (Free)
-  - [SpinKit](http://tobiasahlin.com/spinkit/) (Free)
-  - [Iconvault](http://iconvau.lt) (Free)
-  - [Forecast Font](http:/forecastfo.iconvau.lt) (Free)
+  - [FontAwsome](http://fontawesome.io)
+  - [Themify](https://themify.me/themify-icons)
+  - [SVG Loaders](http://samherbert.net/svg-loaders)
+  - [SpinKit](http://tobiasahlin.com/spinkit/)
+  - [Iconvault](http://iconvau.lt)
+  - [Forecast Font](http:/forecastfo.iconvau.lt
   - [Nucleo](https://nucleoapp.com) (Paid)
 - **PHP**
-  - [Medoo](http://medoo.in) (Free)
+  - [Medoo](http://medoo.in)
+- **Javascript**
+  - [Form Validation](https://jqueryvalidation.org/)
+  - [Ip Address Control](https://github.com/felipevolpatto/jquery-input-ip-address-control)
+  - [Input Mask](http://robinherbots.github.io/jquery.inputmask/)
+  - [X-editable](https://vitalets.github.io/x-editable)
+  - [Wizard](http://vadimg.com/twitter-bootstrap-wizard-example/)
+  - [Customized checkboxes (ICheck)](http://icheck.fronteed.com)
+  - [Image cropping (Jcrop)](http://deepliquid.com/content/Jcrop)
+  - [File Upload](https://github.com/blueimp/jQuery-File-Upload)
+  - [Drag'n'drop file uploads (Dropzone)](http://www.dropzonejs.com)
 - **HTML/CSS**
-  - [Bootstrap](http://getbootstrap.com) (Free)
-  - [Load Awsome](http://github.danielcardoso.net/load-awesome/) (Free)
+  - [Bootstrap](http://getbootstrap.com)
+  - [Load Awsome](http://github.danielcardoso.net/load-awesome/)
 - **Other lists**
   - [Awsome PHP](https://github.com/ziadoz/awesome-php)
 - **NOT FORMATED YET**
-  - https://jqueryvalidation.org/documentation/
-  - https://github.com/felipevolpatto/jquery-input-ip-address-control
-  - http://robinherbots.github.io/jquery.inputmask/
-  - https://vitalets.github.io/x-editable/docs.html
-  - http://vadimg.com/twitter-bootstrap-wizard-example/
-  - http://icheck.fronteed.com
-  - https://github.com/tapmodo/Jcrop
-  - https://github.com/blueimp/jQuery-File-Upload
-  - http://www.dropzonejs.com
   - https://datatables.net
   - https://www.amcharts.com/demos/
   - http://www.flotcharts.org
