@@ -7,7 +7,7 @@ Collection of tools/utilites that I use when programming.
   - [SVG Loaders](http://samherbert.net/svg-loaders)
   - [SpinKit](http://tobiasahlin.com/spinkit/)
   - [Iconvault](http://iconvau.lt)
-  - [Forecast Font](http:/forecastfo.iconvau.lt
+  - [Forecast Font](http:/forecastfo.iconvau.l)
   - [Nucleo](https://nucleoapp.com) (Paid)
 - **PHP**
   - [Medoo](http://medoo.in)
@@ -21,31 +21,31 @@ Collection of tools/utilites that I use when programming.
   - [Image cropping (Jcrop)](http://deepliquid.com/content/Jcrop)
   - [File Upload](https://github.com/blueimp/jQuery-File-Upload)
   - [Drag'n'drop file uploads (Dropzone)](http://www.dropzonejs.com)
+  - [DataTables](https://datatables.net)
+  - [Vector Maps](http://jvectormap.com)
+  - [Better bootstrap modals](https://github.com/jschr/bootstrap-modal)
+  - [Idle Timeout](https://github.com/ehynds/jquery-idle-timeout)
+  - [Session Timeout](https://github.com/maxfierke/jquery-sessionTimeout-bootstrap)
+  - [Growl](https://github.com/ifightcrime/bootstrap-growl/)
+  - [Automatic page load progress bar (Pace)](http://github.hubspot.com/pace/)
+  - [Loading Buttons](http://msurguy.github.io/ladda-bootstrap/)
+  - [Easy Bootstrap Modals](http://bootboxjs.com)
+  - [Customizable Select Box](https://select2.github.io)
+  - [Bootstrap Maxlength](http://mimo84.github.io/bootstrap-maxlength/)
+  - [Bootstrap Switch](http://www.bootstrap-switch.org)
+  - [TypeHead](https://twitter.github.io/typeahead.js/)
 - **HTML/CSS**
   - [Bootstrap](http://getbootstrap.com)
   - [Load Awsome](http://github.danielcardoso.net/load-awesome/)
 - **Other lists**
   - [Awsome PHP](https://github.com/ziadoz/awesome-php)
 - **NOT FORMATED YET**
-  - https://datatables.net
   - https://www.amcharts.com/demos/
   - http://www.flotcharts.org
   - http://adrai.github.io/flowchart.js/
   - https://google-developers.appspot.com/chart/interactive/docs/quick_start
   - http://morrisjs.github.io/morris.js/
   - http://jqvmap.com
-  - https://github.com/jschr/bootstrap-modal
-  - https://github.com/ehynds/jquery-idle-timeout
-  - https://github.com/maxfierke/jquery-sessionTimeout-bootstrap
-  - https://github.com/ifightcrime/bootstrap-growl/
-  - http://github.hubspot.com/pace/
-  - http://msurguy.github.io/ladda-bootstrap/
-  - http://bootboxjs.com
-  - https://github.com/ralivue/notific8
-  - https://select2.github.io
-  - http://mimo84.github.io/bootstrap-maxlength/
-  - http://www.bootstrap-switch.org
-  - https://twitter.github.io/typeahead.js/
   - https://github.com/xavierfaucon/bootstrap-selectsplitter
   - http://loudev.com
   - http://silviomoreto.github.io/bootstrap-select/
