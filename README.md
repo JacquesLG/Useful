@@ -57,3 +57,4 @@ Collection of tools/utilites that I use when programming.
   - http://refreshless.com/nouislider/
   - http://anthonyterrien.com/knob/
   - http://tridiv.com
+  - http://robinparisi.github.io/tingle/
